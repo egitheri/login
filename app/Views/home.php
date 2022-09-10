@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    Selamat datang, <?= session()->get('fullname'); ?>
+    Selamat datang 2, <?= session()->get('fullname'); ?>
 </body>
 
 </html>
